@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+pdfplumber
+pandas
+numpy
+scikit-learn
+google-generativeai
+python-dotenv
+groq
